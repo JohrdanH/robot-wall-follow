@@ -21,7 +21,6 @@ The repository includes:
 ---
 
 ## Video Demonstration
-![Video Thumbnail](link_to_thumbnail_image)  
 **[Watch the real-life test on YouTube](https://youtu.be/W7wCDLy8H9Y)**
 
 ---
