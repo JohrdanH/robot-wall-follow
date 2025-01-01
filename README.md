@@ -17,3 +17,14 @@ The goal is to enable the TurtleBot3 to complete a lap in a predefined circuit b
 The repository includes:
 - **ROS2 Workspace**: The entire workspace containing the code, launch files, and configuration for the project.
 - **Video Demonstration**: A video showcasing the wall-following behavior in real life.
+
+---
+
+## Video Demonstration
+![Video Thumbnail](link_to_thumbnail_image)  
+**[Watch the real-life test on YouTube](link_to_video)**
+
+---
+
+## Acknowledgments
+This project is based on the course **"ROS2: Basics in 5 Days"** by [TheConstruct](https://www.theconstructsim.com/).
